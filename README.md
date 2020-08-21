@@ -2,8 +2,6 @@
 
 Welcome to my github profile. I am interested in statistics, economics, computation, and public policy. All my repos are a work-in-process, and I am very interested in hearing feeback, comments, and suggetions. 
 
-- 📫 Reach me by [e-mail](jdespres1020@yahoo.com)
-
 <!--
 **despresj/despresj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
