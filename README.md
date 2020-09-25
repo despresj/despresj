@@ -1,4 +1,4 @@
-### Hey There Rockstar 👋👊
+### Hey There 👋👊
 
 Welcome to my github profile. I am interested in statistics, economics, computation, and public policy. All my repos are a work-in-process, and I am very interested in hearing feeback, comments, and suggetions. 
 
